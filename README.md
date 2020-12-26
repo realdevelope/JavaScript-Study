@@ -26,3 +26,13 @@
  7. spread 와 rest✔
  8. scope의 이해✔
  9. Hoisting✔
+
+`-Asynchronous`
+1. 동기와 비동기✔
+2. Promise✔
+3. asnc 와 awit✔
+
+`-Toy_Project`
+1. 모달창 만들기✔
+2. 카운터 만들기✔
+
